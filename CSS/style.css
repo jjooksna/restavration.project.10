@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #f1f1f1;
+}
+
+
+.Shapka {
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+
+.Shapka h1 {
+  font-size: 50px;
+}
+
+
+.linkBar {
+  overflow: hidden;
+  background-color: #d7ffba;
+}
+
+
+.linkBar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.linkBar a:hover {
+  background-color: #1f1f1f;
+  color: white;
+}
+
+
+.dopleft {   
+  float: left;
+  width: 75%;
+}
+
+.dopright {
+  float: left;
+  width: 25%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+.img {
+  background-color: #d7ffba;
+  width: 100%;
+  padding: 20px;
+   text-align: center;
+}
+
+
+.karta {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
